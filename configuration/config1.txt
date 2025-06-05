@@ -1,0 +1,7 @@
+.alg_type DIJKSTRA_LIST
+.num_v 10
+.start_vertex 0
+.density 0.5
+.out_matrix false 
+.out_list true 
+.file_name example_graph/1.txt

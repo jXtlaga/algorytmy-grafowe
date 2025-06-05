@@ -1,0 +1,7 @@
+.alg_type BELMAN_FORD_LIST
+.num_v 120
+.start_vertex 1
+.density 0.3
+.out_matrix false
+.out_list false
+.file_name example_graph/3.txt

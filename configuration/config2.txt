@@ -1,0 +1,7 @@
+.alg_type BELMAN_FORD_MATRIX_EDGE_LIST
+.num_v 12
+.start_vertex 1
+.density 0.2
+.out_matrix true 
+.out_list true
+.file_name example_graph/2.txt
