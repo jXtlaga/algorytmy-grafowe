@@ -1,0 +1,64 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight
+.Spotlight-V100
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+
+# macOS trash
+.Trashes
+
+# macOS metadata files
+ehthumbs.db
+Desktop.ini
+
+# Build folders
+obj/
+bin/
+
+# C/C++ compilation artifacts
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Backup files
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# Vim / Neovim
+*.swp
+*.swo
+*.swn
+
+# Xcode (jeśli używasz)
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node.js (jeśli kiedyś dodasz JS)
+node_modules/
+
+# Others
+.idea/        # JetBrains IDEs
